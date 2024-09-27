@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muhammad-Maaz-0990
 - 👀 I’m interested in Learning new technologies and take on challenging projects.
 - 🌱 I’m currently learning C# and Python.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects.
 - 📫 Feel Free to contact me.
 - 03168563659
 - muhammadmaaz0017@gmail.com
